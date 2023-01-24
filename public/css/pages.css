@@ -1,0 +1,13 @@
+
+li{
+    text-align: center;
+}
+
+.section:hover{
+    text-decoration: none;
+    color: black;
+    text-shadow:1ch;
+}
+.card-title{
+    text-align: center;
+}
